@@ -1,0 +1,16 @@
+{
+  "name": "Stride — Comfort Walking",
+  "short_name": "Stride",
+  "description": "A calm offline walking companion. Track steps, log gentle walks, build a streak.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1418",
+  "theme_color": "#0ea5e9",
+  "categories": ["health", "lifestyle", "fitness"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
